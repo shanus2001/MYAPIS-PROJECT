@@ -6,5 +6,5 @@ from rest_framework.decorators import api_view
 @api_view(["GET"])
 def myhome(request):
     return Response({
-        "Message":"this is myn first apis"
+        "Messagessss":"this is myn first apis"
     })
